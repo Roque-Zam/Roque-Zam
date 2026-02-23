@@ -1,4 +1,3 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 
 ##### Hola que tal,Soy Roque:
 
@@ -26,11 +25,16 @@
 
 ##### Herramientas de visualizacion:
 
-![PowerBI]
-![Tableu]
+![microsoftpowerbi](https://img.shields.io)
+![Tableau]
 ![Matplotlib]
+![microsoftexcel](https://img.shields.io)
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+#### Librerias:
+
+
+![Pandas](https://img.shields.io)
+
 <!-- wi*quL3fcV -->
 
 
