@@ -2,7 +2,7 @@
 ##### Hola que tal,Soy Roque:
 
 - 🎓Actualmente estudio Analisis de Datos en Tripleten
-- Estoy aplicando lo aprendido en mi trabajo actiual, y preparandome para hacer la transicion a la insdustria.
+- Estoy aplicando lo aprendido en mi trabajo actual, y preparandome para hacer la transicion a la insdustria.
 
 “Algo de lo que he aplicado fue analizar datos de ventas y clientes para identificar los factores clave del ingreso mensual. El objetivo fue descubrir insights accionables para el equipo de negocio. Construí un dataset limpio, creé visualizaciones y entregué un reporte que resume tendencias y recomendaciones.”
 
