@@ -18,17 +18,16 @@
 ##### Algunas tecnologias con las que trabajo:
 
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Notion]
-![Chatgpt]
-![logo=Copilot](https://img.shields.io)
-![logo=githubcopilot](https://lobehub.com/es/icons/githubcopilot)
+![Notion](<img src=https://img.shields.ioa" alt="Notion Badge" height="25">)
+![Chatgpt](<img src="https://img.shields.io" alt="ChatGPT Badge" height="25">)
+![Copilot]("https://img.shields.io")
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ##### Herramientas de visualizacion:
 
-![microsoft-power-bi](https://img.shields.io)
-![Tableau]
-![Matplotlib]
+![Power BI](<img src="https://img.shields.io" alt="Power BI Badge" height="25">)
+![Tableau](<img src="https://img.shields.io" alt="Tableau Badge" height="25">)
+![Matplotlib](<img src="https://img.shields.io" alt="Matplotlib Badge" height="25">)
 ![microsoftexcel](https://img.shields.io)
 
 #### Librerias:
